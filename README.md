@@ -1,10 +1,12 @@
-# Artificial-Intelligence
+# Artificial-Intelligence & Expert Systems
 
-![alt text](https://github.com/SBU-CE/Artificial-Intelligence/blob/main/images/aiHeader.png)
+<p align="center">
+  <img src="https://github.com/SBU-CE/Artificial-Intelligence/blob/main/img/course-logo.png">	
+</p>
 
 ## Introduction
 
-A repository for slides, codes and other course materials for the 2021-22 Artificial Intelligence course, feel free to contribute!
+A repository for slides, codes and other course materials for the fall 2021 Artificial Intelligence & Expert Systems course, feel free to contribute!
 
 
 ## Course Instructor:
@@ -13,11 +15,11 @@ Dr. Mehrnoosh Shamsfard
 
 ## TAs:
 
-* [Tara Barghian]()
-* [Mehrshad Saadatinia]()
-* [Matin Zivdar]()
-* [Mohammad Hashemi]()
-* [Faeze Sarlaki Fard]()
+* [Tara Barghian](https://github.com/taraBarghian)
+* [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
+* [Matin Zivdar](https://github.com/zivdar001matin)
+* [Mohammad Hashemi](https://github.com/mohammadhashemii)
+* [Faeze Sarlaki Fard](https://github.com/faezesarlakifar)
     
 
 ## Links
