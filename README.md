@@ -19,7 +19,7 @@ Dr. Mehrnoosh Shamsfard
 * [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
 * [Matin Zivdar](https://github.com/zivdar001matin)
 * [Mohammad Hashemi](https://github.com/mohammadhashemii)
-* [Faeze Sarlaki Fard](https://github.com/faezesarlakifar)
+* [Faeze Sarlaki Far](https://github.com/faezesarlakifar)
     
 
 ## Links
