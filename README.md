@@ -1,7 +1,7 @@
 # Artificial-Intelligence & Expert Systems
 
 <p align="center">
-  <img src="https://github.com/SBU-CE/Artificial-Intelligence/blob/main/images/course-logo.png">	
+  <img src="https://github.com/SBU-CE/Artificial-Intelligence/blob/main/images/course-logo.jpg">	
 </p>
 
 ## Introduction
