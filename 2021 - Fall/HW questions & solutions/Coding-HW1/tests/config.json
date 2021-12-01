@@ -1,0 +1,28 @@
+{
+    "packages": [
+	    {
+            "score": 20,
+            "tests": [1]
+		},
+	    {
+            "score": 20,
+            "tests": [2]
+		},
+	    {
+            "score": 30,
+            "tests": [3]
+		},
+	    {
+            "score": 10,
+            "tests": [4]
+		},
+	    {
+            "score": 10,
+            "tests": [5]
+		},
+	    {
+            "score": 10,
+            "tests": [6]
+		}
+	]
+}
