@@ -5,10 +5,10 @@
 This is the final project of the SBU Artificial Intelligence course in Fall 2021.
 Here is the link to the course repository page: [Github](https://github.com/SBU-CE/Artificial-Intelligence).
 
-## Project Goal
+### Project Goal
 The aim of this project is to train an end-to-end model in order to predict the user audience's question  using learning algorithms. It is highly recommended to take advantage of NLP approaches for better performance.
 
-## Project description 
+### Project description 
 The [Natural Language Processing Laboratory](http://nlp.sbu.ac.ir) of the Faculty of Engineering and Computer Science of Shahid Beheshti University is developing a system called Soha (Intelligent Communication System) as the faculty chatbot and intelligent student assistant. In this way, while students gain the experience of participating in real practical work, they will be able to apply what they have learned during the semester.
 
 Soha's task is to talk to the user, answer his questions, provide the necessary guidance or refer questions, criticisms, suggestions, or requests of the user to the relevant person responsible for answering. Therefore, in one of the small modules, it is necessary for the system to determine the addressee of a statement.
@@ -43,9 +43,30 @@ Example #2: دیشب پرسپولیس چند تا از استقلال گل خو�
 
 You can find the full project description written in Persian here: [link](https://github.com/SBU-CE/Artificial-Intelligence/tree/main/2021%20-%20Fall/FinalProject). 
 
-## Acknowledgements
+## Dataset
+
+The dataset files you will need are available in `/dataset` directory. The training data has two columns which are described below. Note that the label column has numerical values in the range of [1, 5]:
+
+- **Label 1:**  It corresponds to *Faculty Education* aka. *آموزش دانشکده*.
+- **Label 2:**  It corresponds to *Information Desk* aka. *میز اطلاعات*.
+- **Label 3:**  It corresponds to *Site/Library* aka. *سایت یا کتابخانه*.
+- **Label 4:**  It corresponds to *Information and Suggestions Box* aka. *صندوق اطلاعات و پیشنهادات*.
+- **Label 5:**  It corresponds to *Others* aka. *سایر*.
+
+### Files
+
+*   **train.csv** - The training set
+*   **test.csv** - The test set
+*   **sample_submission.csv** -A sample submission file in the correct format
+
+### Columns
+*   `id` - Id of each query
+*   `query` - The user query (question) written in Persian.
+*   `label` - User audience label
+
+### Acknowledgements
 We thank SBU computer engineering faculty students for providing the dataset.
 
 
-## Copyright
+### Copyright
 This data belongs to [Shahid Beheshti University](https://www.sbu.ac.ir) and has been prepared only for the use of students in the project of this course. Please refrain from republishing or publishing it without obtaining permission.
