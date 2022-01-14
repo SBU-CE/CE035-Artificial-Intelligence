@@ -25,6 +25,7 @@ Dr. Mehrnoosh Shamsfard
 ## Links
 
 Telegram Channel: https://t.me/sbuai400
+
 Final project Kaggle competition page: https://www.kaggle.com/c/sbu-ai-finalproject/overview
    
 
