@@ -17,10 +17,13 @@ Dr. Mehrnoosh Shamsfard
 
 * [Tara Barghian](https://github.com/taraBarghian)
 * [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
-* [Matin Zivdar](https://github.com/zivdar001matin)
 * [Mohammad Hashemi](https://github.com/mohammadhashemii)
-* [Faeze Sarlaki Far](https://github.com/faezesarlakifar)
-    
+* [Alireza ChaghaMirzaei](https://github.com/achm25)
+* [Mohammad Hossein Arsalan](https://github.com/ARSERLIN)
+* [Aida Aminian](https://github.com/aidaaminian)
+ 
+ ## Special thanks:
+ * [Matin Zivdar](https://github.com/zivdar001matin), [Faeze Sarlaki Far](https://github.com/faezesarlakifar)
 
 ## Links
 
