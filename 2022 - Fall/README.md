@@ -19,7 +19,7 @@ Dr. Mehrnoosh Shamsfard
 * [Tara Barghian](https://github.com/taraBarghian)
 * [Mohammad Hashemi](https://github.com/mohammadhashemii)
 * [Alireza ChaghaMirzaei](https://github.com/achm25)
-* [Doreen Rostami]()
+* [Doreen Rostami](https://github.com/DorreenRostami)
 * [Mohammad Hossein Arsalan](https://github.com/ARSERLIN)
 * [Aida Aminian](https://github.com/aidaaminian)
 * [Zahra Khotanlu](https://github.com/zkhotanlou)
