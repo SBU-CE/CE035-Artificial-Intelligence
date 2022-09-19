@@ -13,7 +13,7 @@ A repository for slides, codes and other course materials for the Artificial Int
 
 Dr. Mehrnoosh Shamsfard
 
-## TAs:
+## TAs
 
 * [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
 * [Tara Barghian](https://github.com/taraBarghian)
