@@ -34,5 +34,6 @@ TBD
 4. Machine Learning Fundamentals
 5. Final Project Description 
 <br>
+
 ## Links
-Telegram Channel: https://t.me/ai_fall2022
+* [Telegram Channel](https://t.me/ai_fall2022)
