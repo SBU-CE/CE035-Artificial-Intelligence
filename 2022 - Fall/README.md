@@ -25,6 +25,14 @@ Dr. Mehrnoosh Shamsfard
 * [Zahra Khotanlu](https://github.com/zkhotanlou)
 
 ## Course Syllabus
+TBD
+<br>
 ## TA classes
+1. Python Tutorial
+2. Numpy Tutorial
+3. Pandas and Data pre-processing
+4. Machine Learning Fundamentals
+5. Final Project Description 
+<br>
 ## Links
 Telegram Channel: https://t.me/ai_fall2022
