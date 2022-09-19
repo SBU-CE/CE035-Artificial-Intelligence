@@ -18,8 +18,8 @@ Dr. Mehrnoosh Shamsfard
 
 
 ## Current TAs:
-* [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
 * [Tara Barghian](https://github.com/taraBarghian)
+* [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
 * [Mohammad Hashemi](https://github.com/mohammadhashemii)
 * [Alireza ChaghaMirzaei](https://github.com/achm25)
 * [Doreen Rostami](https://github.com/DorreenRostami)
