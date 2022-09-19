@@ -6,29 +6,15 @@
 
 ## Introduction
 
-A repository for slides, codes and other course materials for the Artificial Intelligence & Expert Systems course, feel free to contribute!
-
+A repository for slides, codes and other course materials for the Artificial Intelligence & Expert Systems courses presented at Shahid Beheshti University through different semesters
 
 ## Course Instructor:
-
 Dr. Mehrnoosh Shamsfard
 
-## Current TAs:
+## Semesters
+* [Fall 2022](https://github.com/SBU-CE/Artificial-Intelligence/tree/main/2022%20-%20Fall)
+* [Spring 2021](https://github.com/SBU-CE/Artificial-Intelligence/tree/main/2022%20-%20Spring)
+* [Fall 2021](https://github.com/SBU-CE/Artificial-Intelligence/tree/main/2021%20-%20Fall)
 
-* [Tara Barghian](https://github.com/taraBarghian)
-* [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn)
-* [Mohammad Hashemi](https://github.com/mohammadhashemii)
-* [Alireza ChaghaMirzaei](https://github.com/achm25)
-* [Mohammad Hossein Arsalan](https://github.com/ARSERLIN)
-* [Aida Aminian](https://github.com/aidaaminian)
-* [Zahra Khotanlu](https://github.com/zkhotanlou)
- 
-## Special thanks:
-* [Matin Zivdar](https://github.com/zivdar001matin)
-* [Faeze Sarlaki Far](https://github.com/faezesarlakifar)
-
-## Links
-
-Telegram Channel: https://t.me/sbuai4002
    
 
