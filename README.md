@@ -28,12 +28,5 @@ Dr. Armin Salimi-Badr
 * [Nima Lotfollahian](https://github.com/nimalotfo)
 
 ## Past TAs:
-[Alireza ChaghaMirzaei](https://github.com/achm25), [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn), [Tara Barghian](https://github.com/taraBarghian)
-, [Matin Zivdar](https://github.com/zivdar001matin)
-, [Doreen Rostami](https://github.com/DorreenRostami)
-, [Mohammad Hashemi](https://github.com/mohammadhashemii)
-, [Faeze Sarlaki Far](https://github.com/faezesarlakifar)
-, [Zahra Khotanlu](https://github.com/zkhotanlou)
-, [Aida Aminian](https://github.com/aidaaminian)
-, [Mohammad Hossein Arsalan](https://github.com/ARSERLIN)
+[Alireza ChaghaMirzaei](https://github.com/achm25), [Mehrshad Saadatinia](https://github.com/mehrshad-sdtn), [Tara Barghian](https://github.com/taraBarghian), [Matin Zivdar](https://github.com/zivdar001matin), [Doreen Rostami](https://github.com/DorreenRostami), [Mohammad Hashemi](https://github.com/mohammadhashemii), [Faeze Sarlaki Far](https://github.com/faezesarlakifar), [Zahra Khotanlu](https://github.com/zkhotanlou), [Aida Aminian](https://github.com/aidaaminian), [Mohammad Hossein Arsalan](https://github.com/ARSERLIN)
 
