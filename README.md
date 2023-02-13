@@ -1,4 +1,4 @@
-# Artificial-Intelligence & Expert Systems
+# Artificial-Intelligence & Expert Systems (CE035)
 
 <p align="center">
   <img src="https://github.com/SBU-CE/Artificial-Intelligence/blob/main/images/course-logo.jpg">	
