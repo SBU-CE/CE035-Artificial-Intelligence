@@ -6,10 +6,16 @@
 
 ## Introduction
 
-A repository for slides, codes and other course materials for the Artificial Intelligence & Expert Systems courses presented at Shahid Beheshti University through different semesters
+Welcome to the repository for the Artificial Intelligence (AI) and Expert Systems course!
+
+This repository contains a wealth of resources that will help you learn the basics of AI and expert systems, including code samples, datasets, lecture notes, and more. As you progress through the course, you can use this repository to access the materials and tools you need to complete assignments and projects. You can also use this repository to collaborate with your classmates, ask questions, and share your own code and insights.
+
+The repository is organized into different folders, each containing resources related to a particular topic or aspect of cryptography. You will find lecture notes, slides, and code samples in the "lectures" folder, while assignments and projects will be located in the "assignments" folder. There is also a "resources" folder that contains additional materials such as books, papers, and links to useful online resources.
+
+We hope that this repository will be a valuable resource for you throughout the course and beyond.
 
 ## Course Instructor:
-Dr. Armin Salimi-Badr
+* [Dr. Armin Salimi-Badr]{https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en}
 
 ## Semesters
 * [Spring 2022](https://github.com/SBU-CE/CE035-Artificial-Intelligence/tree/main/2022%20-%22Spring)
