@@ -15,7 +15,7 @@ The repository is organized into different folders, each containing resources re
 We hope that this repository will be a valuable resource for you throughout the course and beyond.
 
 ## Course Instructor:
-* [Dr. Armin Salimi-Badr]{https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en}
+* [Dr. Armin Salimi-Badr](https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en)
 
 ## Semesters
 * [Spring 2022](https://github.com/SBU-CE/CE035-Artificial-Intelligence/tree/main/2022%20-%22Spring)
